@@ -1,2 +1,2 @@
-# Recipes
-A Recipes website with html, CSS,  JS, sass and git
+# html-css-basics
+This repo has simple programs for beginners to create a Food recipe webpage using HTML and CSS.
